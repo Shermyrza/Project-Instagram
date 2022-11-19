@@ -1,0 +1,192 @@
+@media screen and (max-width: 1440px) {
+  .sidenav {
+    width: 17%;
+  }
+  .sidenav a {
+    font-size: 17px;
+    padding: 20px 0 0 0;
+  }
+  .comments {
+    padding: 10px 0 10px 20px;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .sidenav {
+    width: 20%;
+  }
+  .sidenav a {
+    font-size: 18px;
+    padding: 30px 0 0 0;
+  }
+  .side-icons {
+    width: 13%;
+    height: 13%;
+    margin-right: 5px;
+  }
+  .insta {
+    width: 70%;
+    height: 80%;
+  }
+  .head {
+    width: 70%;
+    margin-left: 350px;
+  }
+  .header {
+    margin-left: 20px;
+  }
+  .box {
+    width: 70%;
+    margin-left: 350px;
+  }
+  .post-img {
+    width: 90%;
+  }
+  .icons {
+    width: 650px;
+    height: 30px;
+    margin: 0;
+    padding: 0;
+  }
+  .icon {
+    width: 30px;
+    height: 30px;
+  }
+  .icon2 {
+    width: 30px;
+    height: 30px;
+  }
+  .iconlast {
+    margin-left: 350px;
+    width: 30px;
+    height: 30px;
+  }
+  .iconlast2 {
+    margin-left: 350px;
+    width: 30px;
+    height: 30px;
+  }
+  #likes {
+    font-size: 15px;
+    padding-left: 20px;
+  }
+  .inp-text {
+    height: 25px;
+    width: 300px;
+  }
+  .like-counter {
+    width: 650px;
+  }
+  .send-comm {
+    margin-left: 200px;
+  }
+  .comments {
+    font-size: 15px;
+    padding-left: 30px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .sidenav {
+    width: 20%;
+    padding-left: 20px;
+  }
+  .sidenav a {
+    font-size: 13px;
+    padding: 30px 0 0 0;
+  }
+  .side-icons {
+    width: 13%;
+    height: 13%;
+    margin-right: 5px;
+  }
+  .logo_img {
+    width: 60px;
+    height: 60px;
+  }
+  .logo-text {
+    font-size: 15px;
+    padding: auto;
+    margin: auto;
+  }
+  .logo-link {
+    padding-right: 60px;
+    margin-right: 50px;
+  }
+  .logo {
+    margin: 0;
+    padding: 0;
+  }
+  .header-img {
+    width: 50px;
+    height: 50px;
+    margin: 10px 0 0 10px;
+    padding: 0;
+  }
+  .head {
+    width: 60%;
+    margin-left: 240px;
+  }
+  .box {
+    width: 60%;
+    margin-left: 240px;
+  }
+  .post-img {
+    width: 90%;
+  }
+  .icons {
+    width: 430px;
+    height: 30px;
+  }
+  .icon {
+    width: 30px;
+    height: 30px;
+  }
+  .icon2 {
+    width: 30px;
+    height: 30px;
+  }
+  .iconlast {
+    padding-left: 200px;
+    width: 30px;
+    height: 30px;
+    margin: 0;
+  }
+  .iconlast2 {
+    padding-left: 200px;
+    width: 30px;
+    height: 30px;
+    margin: 0;
+  }
+  #likes {
+    font-size: 15px;
+    padding-left: 20px;
+  }
+  .inp-text {
+    height: 15px;
+    width: 200px;
+    font-size: 17px;
+  }
+  .send-comm {
+    font-size: 15px;
+    margin-left: 50px;
+  }
+  .like-counter {
+    width: 100px;
+    padding-left: 170px;
+    /* margin: 0; */
+  }
+  .comments {
+    font-size: 15px;
+    padding-left: 30px;
+  }
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {
+    padding-top: 15px;
+  }
+  .sidenav a {
+    font-size: 18px;
+  }
+}
